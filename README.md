@@ -1,5 +1,11 @@
 # State Management in React - Group 3 Assignment
 
+Names: Uwizeye Ngoga Sandra
+
+ID:25444
+
+Group:E,Team 3
+
 This project demonstrates essential concepts of state management in React, focusing on the use of the useState hook for managing form inputs and conditional rendering. 
 
 ## Overview
